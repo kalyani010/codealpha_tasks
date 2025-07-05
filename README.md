@@ -1,13 +1,13 @@
 # codealpha_tasks
-# 🎮 Hangman Game (Python Console Version)
+## Hangman Game (Python Version)
 
 A fun and simple **Hangman** game built using Python, playable in the terminal.
 
-## 📜 Description
+## Description
 
 This project is a text-based version of the classic Hangman game. The user has to guess a randomly selected word one letter at a time with a limited number of incorrect attempts (6 by default).
 
-## 🛠️ Features
+## Features
 
 - Random word selection from a predefined list
 - Clean and interactive console output
@@ -15,12 +15,9 @@ This project is a text-based version of the classic Hangman game. The user has t
 - Win or lose messages
 - Input validation (single letters only)
 
-## 🚀 How to Run
+## How to Run
 
 1. Make sure Python 3 is installed.
 2. Download or clone the repository.
 3. Open a terminal or command prompt in the project directory.
-4. Run the script:
-
-```bash
-python "Hangman stages.py"
+4. Run the script.
